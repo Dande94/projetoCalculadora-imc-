@@ -1,0 +1,21 @@
+body{
+    background-color: #777;
+    color: #fff;
+    font-family: monospace;
+    display: flex;
+    justify-content: center;
+    font-size: larger;
+}
+h1{
+    text-align: center;
+}
+section{
+    display: flex;
+    flex-direction: column;
+    min-width:30% ;
+    max-width:50% ;
+    gap:20px;
+}
+#resultado{
+    text-align: center;
+}
